@@ -19,10 +19,10 @@ Software
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>YCK 팀장 : 김민주</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="https://github.com/Yes-We-can-Kiosk/O-kisk/assets/156570720/e2b5821d-905b-40a0-b1ff-b56d8a7a0e23" width="100px;" alt=""/><br /><sub><b>YCK 팀장 : 김민주</b></sub></a><br /></td>
       <td align="center"><a href=""><img src="https://github.com/Yes-We-can-Kiosk/O-kisk/assets/156570720/e3375126-3d7d-4b76-8063-4119e72f32f0" width="100px;" alt=""/><br /><sub><b>YCK 팀원 : 김민희</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>YCK 팀원 : 김채린</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>YCK 팀원 : 이민지</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="https://github.com/Yes-We-can-Kiosk/O-kisk/assets/156570720/6a939c12-a20e-43c0-a356-7dfc8f48fbca" width="100px;" alt=""/><br /><sub><b>YCK 팀원 : 김채린</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="https://github.com/Yes-We-can-Kiosk/O-kisk/assets/156570720/bff8916b-fdb3-4632-a78e-5042293cd841" width="100px;" alt=""/><br /><sub><b>YCK 팀원 : 이민지</b></sub></a><br /></td>
       <td align="center"><a href=""><img src="https://github.com/Yes-We-can-Kiosk/O-kisk/assets/156570720/9e93d57d-4d13-4c82-93c0-bb1502f0507e" width="100px;" alt=""/><br /><sub><b>YCK 팀원 : 이소연</b></sub></a><br /></td>
       <td align="center"><a href=""><img src="https://github.com/Yes-We-can-Kiosk/O-kisk/assets/156570720/f0b03f22-1771-41ac-9b8b-4c29a35d1dbb" width="100px;" alt=""/><br /><sub><b>YCK 팀원 : 이영재</b></sub></a><br /></td>
     </tr>
