@@ -1,0 +1,62 @@
+<!-- menu_item.xml -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/menuItemLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="34dp"
+    android:gravity="center">
+
+    <LinearLayout
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:background="@drawable/round_button"
+        android:gravity="center"
+        android:layout_marginEnd="40dp">
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/x"/>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/menuTextView"
+        android:layout_width="450dp"
+        android:layout_height="wrap_content"
+        android:text="메뉴1"
+        android:textSize="50dp"/>
+
+    <ImageButton
+        android:id="@+id/btnMinus"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:src="@drawable/minus"
+        android:background="@drawable/circle"
+        android:layout_marginEnd="30dp"/>
+
+    <TextView
+        android:id="@+id/txt_quantity"
+        android:layout_width="127dp"
+        android:layout_height="60dp"
+        android:text="1개"
+        android:textSize="40dp"
+        android:background="@drawable/out_line"
+        android:gravity="center"
+        android:textStyle="bold"/>
+
+    <ImageButton
+        android:id="@+id/btnPlus"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:src="@drawable/plus"
+        android:background="@drawable/circle"
+        android:layout_marginStart="30dp"/>
+
+    <TextView
+        android:layout_width="400dp"
+        android:layout_height="wrap_content"
+        android:text="0,000원"
+        android:textSize="50dp"
+        android:gravity="end"/>
+</LinearLayout>

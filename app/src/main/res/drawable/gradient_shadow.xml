@@ -1,0 +1,21 @@
+<!-- res/drawable/gradient_shadow.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <!-- 그라데이션 -->
+        <shape>
+            <gradient
+                android:startColor="#FFFFFF"
+                android:centerColor="#D9D9D9"
+                android:endColor="#FFFFFF"
+                android:centerX="0.5"
+                android:type="linear"
+                android:angle="90"/>
+        </shape>
+    </item>
+    <item>
+        <!-- 투명도 조절 -->
+        <shape>
+            <solid android:color="#00FFFFFF" /> <!-- 투명도를 높여서 흐릿한 효과를 줍니다 -->
+        </shape>
+    </item>
+</layer-list>

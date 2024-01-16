@@ -1,0 +1,6 @@
+<!-- res/drawable/round_button.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners
+        android:radius="150dp" /> <!-- 모서리 둥글기를 조절할 수 있는 값 -->
+    <solid android:color="#D9D9D9" /> <!-- 배경 색상을 원하는 색으로 설정 -->
+</shape>

@@ -1,0 +1,4 @@
+<!-- res/drawable/round_button.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF" /> <!-- 배경 색상을 원하는 색으로 설정 -->
+</shape>
